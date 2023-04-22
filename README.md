@@ -37,8 +37,8 @@ If users choose to _view_ additional information options, they can then:
 
 💡**Note:** If you create a network visualization, please remember to close it if you want to see the interaction prompt again
 
-#Author
+# Author
 Brinda Mehra 
 
-#Acknowledgements
+# Acknowledgements
 Professor Bobby Madamanchi and the SI507 Winter 2023 instruction team, for their feedback and advice! 
