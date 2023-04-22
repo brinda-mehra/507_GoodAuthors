@@ -20,7 +20,7 @@ the searches
 Make sure you have downloaded the Networkx, Unidecode and BeautifulSoup packages, as well as all the files to allow for reading and writing data to disk. The code comes with a set of default authors that provide an initial baseline, but these can be replaced according to your preferences.
 💡**Note:** You can also delete the _myauthors.json_ file after downloading the program and once you replace the author names in the _defaultauth_ variable, you can run the program again and it will generate a new cache file with your chosen authors.
 
-To run the program, simply use the command ```python3 AuthorSearch.py```
+To run the program, simply use the command **python3 AuthorSearch.py**
 
 # Data Presentation
 After downloading the program and running it, users will be given an initial prompt that allows them to either: 
