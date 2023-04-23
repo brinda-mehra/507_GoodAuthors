@@ -37,7 +37,8 @@ If users choose to _view_ additional information options, they can then:
 * Type '4' to open up the Amazon page for your last search 
 
 💡**Note:** If you create a network visualization, please remember to close it if you want to see the interaction prompt again
-💡**Note:**If users choose the view option without searching for a new author, they will be shown the network diagram of the defaultauth list but redirected to the search if they try to view the genres, personal website or amazon page since no search was carried out. 
+
+💡**Note:** If users choose the view option without searching for a new author, they will be shown the network diagram of the defaultauth list but redirected to the search if they try to view the genres, personal website or amazon page since no search was carried out. 
 
 # Author
 Brinda Mehra 
