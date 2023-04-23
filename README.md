@@ -1,5 +1,5 @@
 # SI507 Final Project: GoodAuthors
-This program is a 507 final project designed to provide users with more information about their favorite authors, scraped from the GoodReads website.
+This program is a 507 final project designed to provide users with more information about their favorite authors, scraped from the GoodReads website (https://www.goodreads.com/author).
 
 After starting the program, users can input an author of interest and obtain information about
 the genres the authors write for, a link to their personal website or to their Amazon page. Users can also view a visualization of a network of all their searched authors and their influences. 
